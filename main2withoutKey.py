@@ -1,7 +1,7 @@
 import os
 from openai import OpenAI
 
-client = OpenAI(api_key="")
+#client = OpenAI(api_key="Your api key")
 
 def load_data(folder_path):
     data = {}
